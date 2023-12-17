@@ -1,0 +1,7 @@
+{
+  "name": "AustralTechTask",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
